@@ -2,7 +2,7 @@
 
 Tipo de proyecto:  DA - Data Analysis
 
-Sector: Delivery App Delivery | Retail
+Sector: Delivery App | Retail
 
 Tecnologías implementadas: Pandas | matplotlib
 
